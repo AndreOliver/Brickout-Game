@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BallSprite" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAQACAAAAAAAAAAAA=</HashCode>
+      <FileName>BallSprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TGame" Collapsed="true">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAIAAAAgAAAIAAAIAAAAAAAAEkABAAAAEAAA=</HashCode>
+      <FileName>TGame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TGraphic" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAEQAAEAAA=</HashCode>
+      <FileName>TGraphic.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TGraphicList" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAIAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAFAAAAAGAAA=</HashCode>
+      <FileName>TGraphicList.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TImage" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAAQAAABAAAAAAAAAAAAgEAAIAAAAwAgAAAAAACA=</HashCode>
+      <FileName>TImage.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TSprite" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAACAAAKAIAACIAAYAQQiAAAAAABMAAA=</HashCode>
+      <FileName>TSprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TResources" Collapsed="true">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAgABAAAAAAAAAAAAAEAIAAAAAAAAQAA=</HashCode>
+      <FileName>TResources.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BallDemoGame" Collapsed="true">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAgAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BallDemoGame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TSpriteString" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAUABAAQAAAAAAAAAIAIACCAAAQgQQAAAAAAABMAAA=</HashCode>
+      <FileName>TSpriteString.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TScene" Collapsed="true">
+    <Position X="1.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIggAAAIAAAAgAAAAEAAAAAAACAAEAIA=</HashCode>
+      <FileName>TScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TGlobal" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACQAAQCEAABAAAAAMBAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>TGlobal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PlayScene" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAIAAAgAAAAAAAAgAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>PlayScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TitleScene" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAIAgAAAAAIAAAAAAAAAEAAA=</HashCode>
+      <FileName>TitleScene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
